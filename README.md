@@ -1,6 +1,4 @@
-# Hexo-WordCount
-
-[![npm](https://img.shields.io/npm/v/hexo-wordcount.svg?style=plastic)](https://npmjs.org/package/hexo-wordcount) [![npm](https://img.shields.io/npm/dm/hexo-wordcount.svg?style=plastic)](https://npmjs.org/package/hexo-wordcount) [![npm](https://img.shields.io/npm/dt/hexo-wordcount.svg?style=plastic)](https://npmjs.org/package/hexo-wordcount)
+# Hexo-WordCount-Arabic
 
 ## Installation
 
@@ -12,27 +10,27 @@ npm i --save hexo-wordcount
 
 ## Usage
 
-### 字数统计 WordCount
+###  WordCount
 
 
 ```js
 wordcount(post.content)
 ```
 
-### 阅读时长预计 Min2Read
+###  Min2Read
 
 ```js
 min2read(post.content)
 ```
 
-设置阅读速度 Set Reading Speed:
+ Set Reading Speed:
 
 ```js
-min2read(post.content, {cn: 300, en: 160})
+min2read(post.content, {cn: 300,ar:200, en: 160})
 // p.s. (v3.0.0 added)
 ```
 
-### 总字数统计 TotalCount
+###  TotalCount
 
 ```js
 totalcount(site)
@@ -105,7 +103,3 @@ Total Count:
 ## LICENSE
 
 MIT
-
-Alipay Donation(通过支付宝捐赠)：
-
-![qr](https://cloud.githubusercontent.com/assets/1890238/15489630/fccbb9cc-2193-11e6-9fed-b93c59d6ef37.png)

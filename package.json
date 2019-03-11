@@ -1,22 +1,23 @@
 {
-  "name": "hexo-wordcount",
-  "version": "6.0.1",
+  "name": "hexo-wordcount-arabic",
+  "version": "1.0.0",
   "description": "Post Word Count Plugin of Hexo.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willin/hexo-wordcount.git"
+    "url": "git+https://github.com/MohammedShalan/hexo-wordcount-arabic.git"
   },
-  "homepage": "https://github.com/willin/hexo-wordcount",
+  "homepage": "https://github.com/MohammedShalan/hexo-wordcount-arabic",
   "keywords": [
     "hexo",
     "wordcount",
+    "arabic wordcount",
     "count"
   ],
   "author": {
-    "name": "Willin Wang",
-    "email": "willin@willin.org",
-    "url": "http://willin.wang"
+    "name": "Mohammed Shalan",
+    "email": "MohammedShaln9@gmail.com",
+    "url": "http://mohammedshalan.github.io"
   },
   "license": "MIT"
 }
