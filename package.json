@@ -14,10 +14,12 @@
     "arabic wordcount",
     "count"
   ],
-  "author": {
-    "name": "Mohammed Shalan",
-    "email": "MohammedShaln9@gmail.com",
-    "url": "http://mohammedshalan.github.io"
+  "author": "Mohammed Shalan <MohammedShaln9@gmail.com> (http://mohammedshalan.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohammedShalan/hexo-wordcount-arabic/issues"
   },
-  "license": "MIT"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
